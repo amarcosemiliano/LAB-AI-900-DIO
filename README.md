@@ -30,3 +30,21 @@ Antes iniciarmos o Lab, no Azure Machine Learning Studio, acessamos a página Au
 - **Tempo limite:** 15
 - **Tempo limite de iteração:** 15
 
+# Resultados
+Após execução das etapas supracitadas, foram encontradas as seguintes métricas:
+
+### Métricas:
+- **Variância explicada:** 0.78586
+- **Erro absoluto de média:** 187.87
+- **Erro de percentual absoluto de média:** 37.053
+- **Erro mediano absoluto:** 115.76
+- **Erro absoluto de média normalizado:** 0.055126
+- **Erro mediano absoluto normalizado:** 0.033967
+- **Erro de quadrado de média de raiz normalizado:** 0.089914
+- **Erro de log de quadrado de média raiz normalizado:** 0.057918
+- **Pontuação R2:** 0.78586
+- **Erro de raiz do valor quadrático médio:** 306.43
+- **Erro de log de raiz do valor quadrático médio:** 0.40752
+- **Correlação de Spearman:** 0.91851
+
+
