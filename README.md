@@ -46,5 +46,3 @@ Após execução das etapas supracitadas, foram encontradas as seguintes métric
 - **Erro de raiz do valor quadrático médio:** 306.43
 - **Erro de log de raiz do valor quadrático médio:** 0.40752
 - **Correlação de Spearman:** 0.91851
-
-
